@@ -38,10 +38,12 @@ Ter instalado:
 #### No terminal, rodar
 ```sh
 # Clonar esse repositório
-git clone
+git clone https://github.com/andre23arruda/medium-clone
 
 # Entrar na pasta dos arquivos do frontend
-cd frontend
+cd medium-clone
+
+# Talvez seja necessário mudar seu baseURL em api.ts
 
 # Instalar os pacotes do projeto
 yarn install
