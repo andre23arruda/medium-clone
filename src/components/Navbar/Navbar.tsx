@@ -8,7 +8,7 @@ function Navbar() {
                 <img className={styles.navbarBrand } src="/medium.png"  width="200"/>
             </Link>
 
-            <Link href="http://127.0.0.1:8000/admin/pages/">
+            <Link href="https://aa-blog-wagtail.herokuapp.com/admin/pages/">
                 <button className="btn btn-secondary d-block ml-auto">Quer escrever?</button>
             </Link>
         </nav>
